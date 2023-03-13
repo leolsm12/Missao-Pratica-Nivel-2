@@ -1,0 +1,28 @@
+.prime{
+    width: 350px;
+    margin-left: 10px;
+}
+.prime > button{
+    margin-top: 10px;
+    
+}
+.sec{
+    width: 350px;
+    margin-left: 10px;
+}
+.sec > button{
+    margin-top: 10px;
+}
+.result{
+    width: 350px;
+    margin-left: 10px;
+
+}
+#Mentra{
+    margin-top: 10px;
+    display: flex;
+    flex-direction: row;
+}
+#aplicar{
+    margin-left: 20px;
+}

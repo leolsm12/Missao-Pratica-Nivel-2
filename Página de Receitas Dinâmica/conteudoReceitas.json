@@ -1,0 +1,35 @@
+{"receitas":[
+    {"titulo":"Arroz de Couve-Flor",
+     "ingredientes":[
+        "Arroz",
+        "Couve-Flor",
+        "Cebola Média",
+        "Azeite" ],
+     "preparo":"Deixe a couve-flor picada. Adicione os ingredientes e refogue bem. Adicione sal, tampe a panela e deixe cozinhar.",
+     "foto":"https://vitat.com.br/central/Content/handlers/Receita.jpg?id=80665&tipo=r&default=s"
+    },
+    {"titulo":"Bolo de Café",
+    "ingredientes":[
+       "Farinha de trigo",
+       "Açúcar",
+       "Café Coado",
+       "Chocolate em pó",
+       "Ovos" ],
+    "preparo":"Bata o açúcar, as gemas e o café. Adicipne farinha e chocolate e mexa bem. Bata as claras e junte à mistura.",
+    "foto":"https://s2.glbimg.com/Zgq4HCaXjuXmKWc8hcHoNlQImuo=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_1f540e0b94d8437dbbc39d567a1dee68/internal_photos/bs/2022/c/N/Jy3UHVQAaeQM8xXMjhTQ/bolo-de-cafe.jpg"
+    },
+    {"titulo":"Coxinha de Brigadeiro",
+    "ingredientes":[
+       "Leite condensado",
+       "Chocolate em Pó",
+       "Manteiga",
+       "Morango",
+       "Chocolate Granulado" ],
+    "preparo":"Junte o leite condensado, chocolate em pó e manteiga. aqueça no fogo baixo. Envolva os morangos e passe no granulado.",
+    "foto":"https://www.receitasnestle.com.br/sites/default/files/srh_recipes/bcab5be00f2765a0d799cefcdeef33a1.jpg"
+    }
+
+
+]
+
+}

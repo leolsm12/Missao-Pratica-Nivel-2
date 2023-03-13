@@ -1,0 +1,17 @@
+.pnlCatalogo {
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.card{
+  width: 400px;
+  flex:row;
+  margin:10px 10px 10px 10px ;
+}
+.card > img{
+  height: 250px;
+}
+#lista{
+  
+  margin-left: 30px;
+}
