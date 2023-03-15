@@ -1,0 +1,11 @@
+ul{
+  list-style: none;
+}
+.total > p{
+  color: #fff;
+  font-family: 'Sriracha', cursive;
+
+}
+.card{
+  width: 360px;
+}

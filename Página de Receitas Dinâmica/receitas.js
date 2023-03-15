@@ -58,29 +58,4 @@ fetch('./conteudoReceitas.json')
 
 
 
-//I
-//function getListaIngredientes(receita) {
-//  const lista = receita.ingredientes.map(ingrediente => `<li>${ingrediente}</li>`).reduce((total, item) => total + item, '');
-//  return `<ul>${lista}</ul>`;
-//}
-//getListaIngredientes()
-//function getCard(receita) {
-//  return `            <div class="card" >
-//  <img src="" class="card-img-top" alt="arroz de couve flor">
-//  <div class="card-body">
-//      <h5 class="card-title">Arroz de Couve-Flor</h5>
-//      <ul>
-//          <li>Arroz</li>
-//          <li>Couve-Flor</li>
-//          <li>Cebola Média</li>
-//          <li>Azeite</li>
-//      </ul>
-//      <hr>
-//      <p class="card-text">Deixe a couve-flor picada. Adicione os ingredientes e refogue bem. Adicione sal, tampe a panela e deixe cozinhar.</p>
-//  </div>
-//</div>`
-    
 
-//}
-
-// J
